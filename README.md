@@ -1,8 +1,14 @@
 # Analytics Platform Shiny Server
 
+> [!CAUTION]
+> This repo is DEPRECATED.
+> This shiny server suffers from a [memory leak](https://github.com/ministryofjustice/analytics-platform-shiny-server/issues/36) and can't be recommended any more.
+>
+> Instead, we have switched to using: https://github.com/ministryofjustice/analytical-platform-rshiny-open-source-base
+
 This is a 'shiny server', for serving Shiny applications over the web.
 
-MOJ has developed this this one because the other shiny servers did not meet our needs.
+MOJ developed this in 2020-2023, because at the time the other shiny servers did not meet our needs.
 
 ## Features
 
